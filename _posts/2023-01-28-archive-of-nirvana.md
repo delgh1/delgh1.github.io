@@ -11,17 +11,19 @@ title: "Archive of Nirvana"
 # Added features (?)
 
 [WeChat History of Nirvana - 涅槃周刊公众号推文](https://nirvana-wechat.jing.rocks)
+
 [GitHub repository](https://github.com/delgh1/nirvana-sz), which includes all the pdf files mentioned below.
 
 # Changelog
 
-- May 17 2023: Reformat the file. Add the URL to the index of nirvana wechat service account history and its .
+- May 17 2023: Reformat the file. Add the URL to the index of nirvana wechat service account history and its GitHub repo.
 - Jan 28 2023: Forked from original author of this post
 
 # License
 
 The copyright status of all the works published by `Nirvana weekly` is unknown, since the magazine did not specify such terms and the magazine itself has been defunct since 2016. See the `README.MD` in the GitHub repository mentioned above. By the reactions of some editors I've met, I think it's safe to assume these works are in public domain now.
-The sections from top this line of the post is licensed under CC BY-NC-SA 4.0
+
+The sections from the top to this line of the post is licensed under CC BY-NC-SA 4.0
 
 # 《涅槃周刊》电子版汇总（更新于2019年3月5日）
 
