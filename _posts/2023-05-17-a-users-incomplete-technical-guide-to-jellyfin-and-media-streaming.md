@@ -15,7 +15,7 @@ If the internet connection allows, depending on the speed and latency of the con
 
 A large video is like a lake, and streaming is like a stream or river, the quality and experience of streaming largely depend on the width of the stream (the quality of said internet connection).
 
-See more on [What is streaming? &#124 How video streaming works &#124 Cloudflare](https://www.cloudflare.com/en-ca/learning/video/what-is-streaming/)
+See more on [What is streaming? - How video streaming works - Cloudflare](https://www.cloudflare.com/en-ca/learning/video/what-is-streaming/)
 
 ## What is Jellyfin
 
