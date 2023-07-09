@@ -163,7 +163,7 @@ rw=randwrite
 stonewall
 ```
 
-I got about 650MB/s sequential read/write and about 90K IOPS random read/write, slightly better than a typical SATA SSD. The numbers were not great, probably because of the suboptimal zpool setup. Mounting the zvol on the target directly, I only got about 1.5GB/s sequential R/W. Also, the ethernet adapter at the initiator's side, AQC107, is known to be not very stable and sometimes overheat (and no support for RDMA). It would be better if I had a 25Gb or 40Gb network adapter.
+I got about 650MB/s sequential read/write and about 90K IOPS random read/write, slightly better than a typical SATA SSD. The numbers were not great, probably because of the suboptimal zpool setup. Mounting the zvol on the target directly, I only got about 1.5GB/s sequential read. Also, the ethernet adapter at the initiator's side, AQC107, is known to be not very stable and sometimes overheat (and no support for RDMA). It would be better if I had a 25Gb or 40Gb network adapter.
 
 ### Reference
 
