@@ -85,6 +85,8 @@ The members of AOM mainly consist of [multi-national mega-corporations](https://
 
 ![Ironic](/assets/ironic.jpg)
 
+*This is a still picture of the movie Star Wars: Revenge of the Sith (2005), where Chancellor Palpatine tallked to Anakin Skywalker at the senate.*
+
 All the above video formats have complete or partial support from various clients.
 In terms of resource consumption when decoding/encoding these formats, the newer ones are more resource intensive than the older ones.
 Decoding should not be a problem on modern computers or phones.
