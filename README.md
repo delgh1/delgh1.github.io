@@ -2,8 +2,11 @@
 
 ## Self introduction taken from /about
 
-My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In my free time, I work on open source projects and promote FOSS and the democratization of technology.
-[I also train and give lectures to new employee at my company.](https://github.com/delgh1/eden-class-material)
+My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In my free time, I work on free software projects and promote FOSS and the democratization of technology.
+
+See also: [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)
+
+My roles in the GNU project: webmaster, gnu.org Chinese & Japanese translation team member.
 
 ## My Personal Website
 
@@ -15,7 +18,7 @@ Copyright 2023, Jing Luo.
 
 ### Code and their documents, unless specified
 
-GNU GPL v3.0
+GNU GPL v3.0 or later
 
 ABSOLUTELY NO WARRANTY, not even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
