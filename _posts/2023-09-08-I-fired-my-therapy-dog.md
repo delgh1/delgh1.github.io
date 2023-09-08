@@ -22,7 +22,7 @@ Left me with his baby tooth
 I can no longer exploit my dog
 For he's more depressed than me now
 How can I ever go to sleep
-Never want him to leave
+Never wanted him to leave
 That's when I realize
 I never had a dog
 ```
