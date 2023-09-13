@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Self introduction
+## `$ whoami`
 
 My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In my free time, I work on free software projects and promote FOSS and the democratization of technology.
 
