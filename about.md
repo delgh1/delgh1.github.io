@@ -6,11 +6,13 @@ permalink: /about/
 
 ## `$ whoami`
 
-My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In my free time, I work on free software projects and promote FOSS and the democratization of technology.
+My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In my free time, I work on free software projects and promote free software, free culture, and the democratization of technology.
 
 See also: [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)
 
-My roles in the GNU project: webmaster, gnu.org Chinese & Japanese translation team member.
+My roles in the GNU project: gnu.org Chinese & Japanese translation team member.
+
+I grant myself the rank of webmaster and postmaster.
 
 ## License
 
@@ -24,7 +26,7 @@ ABSOLUTELY NO WARRANTY, not even the implied warranty of MERCHANTABILITY or FITN
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-### Non-software (literature, etc.), unless specified
+### Non-software/non-code (literature, etc.), unless specified
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
