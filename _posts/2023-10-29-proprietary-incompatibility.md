@@ -47,3 +47,8 @@ Chinese](https://www.gnu.org/proprietary/proprietary-incompatibility.zh-cn.html)
 and Japanese, which sheds a light on this proprietary incompatibility. This
 was my first time translating an article after joining the gnu.org Chinese
 translation team.
+
+
+This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0
+International License](http://creativecommons.org/licenses/by-nd/4.0/).
+
