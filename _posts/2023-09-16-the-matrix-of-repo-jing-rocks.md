@@ -2,7 +2,11 @@
 layout: form
 title: "The matrix of repo.jing.rocks"
 ---
-Updated: 2023-10-27 04:44+0900
+Updated: 2023-10-30 17:17+0900
+
+(Is repo.jing.rocks down?)[https://status.jing.rocks/]
+
+Total: 48 repos, 34 officially listed, 23 distinct GNU/Linux distros
 
 | name                                       | repo dir name       | official status    | upstream                                               | sync frequency | health monitor                                                           | mirror list                                                             |
 |--------------------------------------------|---------------------|--------------------|--------------------------------------------------------|----------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------|
