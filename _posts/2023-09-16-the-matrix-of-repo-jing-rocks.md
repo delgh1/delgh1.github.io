@@ -2,7 +2,7 @@
 layout: form
 title: "The matrix of repo.jing.rocks"
 ---
-Updated: 2023-11-09 23:16+0900
+Updated: 2023-11-14 15:54+0900
 
 [Is repo.jing.rocks down?](https://status.jing.rocks/)
 
@@ -15,7 +15,7 @@ Total: 61 repos, 43 officially listed, 24 distinct GNU/Linux distros
 | Arch Linux                                 | archlinux                       | **official**       | rsync://mirror.accum.se/mirror/archlinux/                    | every 10 min   | https://archlinux.org/mirrors/jing.rocks/                                | https://archlinux.org/mirrors/                                          |
 | Arch Linux ARM                             | archlinuxarm                    | not yet official   | rsync://dk.mirror.archlinuxarm.org/archlinuxarm/             | every 6 hr     |                                                                          | https://www.archlinuxarm.org/about/mirrors                              |
 | Armbian APT                                | armbian-apt                     | **official**       | rsync://mirrors.dotsrc.org/armbian-apt/                      | every 4 hr     |                                                                          | https://github.com/armbian/mirror                                       |
-| Armbian archive                            | armbian-archive                 | not yet official   | rsync://armbian.tnahosting.net/archive/                      | every week     |                                                                          | https://github.com/armbian/mirror                                       |
+| Armbian archive                            | armbian-archive                 | not yet official   | rsync://rsync.armbian.com/archive/                           | every week     |                                                                          | https://github.com/armbian/mirror                                       |
 | Armbian DL                                 | armbian-dl                      | **official**       | rsync://rsync.armbian.com/dl/                                | every 4 hr     |                                                                          | https://github.com/armbian/mirror                                       |
 | BLFS (Beyond Linux From Scratch)           | blfs                            | not yet official   | rsync://rsync.osuosl.org/blfs/                               | every 24 hr    |                                                                          | https://www.linuxfromscratch.org/mirrors.html                           |
 | Debian GNU/Linux                           | debian                          | **official**       | rsync://ftp.acc.umu.se/debian/                               | every 20 min   | https://mirror-master.debian.org/status/mirror-info/repo.jing.rocks.html | https://www.debian.org/mirror/list                                      |
