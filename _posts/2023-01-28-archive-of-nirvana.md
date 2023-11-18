@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Archive of Nirvana"
+permalink: /nirvana/
 ---
 
 # Disclaimer
@@ -21,7 +22,7 @@ here.](https://github.com/delgh1/nirvana-sz/releases/tag/release)
 # Changelog
 
 - Nov 18 2023: Add a link to release download page. Reformat the file using
-  Emacs auto-fill-mode.
+  Emacs auto-fill-mode. Add permalink.
 
 - May 17 2023: Reformat the file. Add the URL to the index of nirvana wechat
   service account history and its GitHub repo.
