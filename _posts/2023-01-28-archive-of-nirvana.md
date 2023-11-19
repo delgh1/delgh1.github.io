@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Archive of Nirvana"
-permalink: /nirvana/
 ---
 
 # Disclaimer
