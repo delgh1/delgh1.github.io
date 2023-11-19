@@ -16,7 +16,7 @@ solely of the individuals involved.
 
 [GitHub repository](https://github.com/delgh1/nirvana-sz), which includes all
 the pdf files mentioned below. [Download the release
-here.](https://github.com/delgh1/nirvana-sz/releases/tag/release)
+here.](https://github.com/delgh1/nirvana-sz/releases)
 
 # Changelog
 
