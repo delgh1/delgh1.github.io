@@ -2,7 +2,7 @@
 layout: form
 title: "The matrix of repo.jing.rocks"
 ---
-Updated: 2023-12-15 13:38+0900
+Updated: 2023-12-19 09:31+0900
 
 [Is repo.jing.rocks down?](https://status.jing.rocks/)
 
@@ -55,8 +55,8 @@ Total: 63 repos, 49 officially listed, 24 distinct GNU/Linux distros
 | NetBSD                                     | netbsd                          | not yet official   | rsync://ftp.riken.jp/netbsd/                                 | every 1 hr     |                                                                          | http://www.netbsd.org/mirrors/                                          |
 | Nongnu (savannah.nongnu.org)               | nongnu                          | **official**       | rsync://mirror.accum.se/mirror/gnu.org/savannah/             | every 23 hr    | https://download.savannah.gnu.org/mirmon/savannah/                       | http://dl.sv.gnu.org/releases/00_MIRRORS.html                           |
 | OpenBSD                                    | openbsd                         | not yet official   | rsync://openbsd.cs.toronto.edu/openbsd/                      | every 4 hr     |                                                                          | https://www.openbsd.org/ftp.html                                        |
-| OpenWRT                                    | openwrt                         | **official**       | rsync://downloads.openwrt.org/downloads/                     | every 23 hr    |                                                                          | https://openwrt.org/downloads#mirrors                                   |
-| OpenWRT sources                            | openwrt-sources                 | unofficial [4]     | rsync://downloads.openwrt.org/sources/                       | every 24 hr    |                                                                          |                                                                         |
+| OpenWRT                                    | openwrt                         | **official**       | rsync://rsync.openwrt.org/downloads/                         | every 23 hr    |                                                                          | https://openwrt.org/downloads#mirrors                                   |
+| OpenWRT sources                            | openwrt-sources                 | unofficial [4]     | rsync://rsync.openwrt.org/sources/                           | every 24 hr    |                                                                          |                                                                         |
 | Parabola GNU/Linux-libre                   | parabola                        | **official**       | rsync://rsync.cyberbits.eu/parabola/                         | every 20 min   | https://www.parabola.nu/mirrors/jing.rocks                               | https://www.parabola.nu/mirrors/                                        |
 | Raspbian                                   | raspbian                        | not yet official   | rsync://archive.raspbian.org/archive/                        | every 4 hr     |                                                                          | https://www.raspbian.org/RaspbianMirrors                                |
 | Rocky Linux                                | rocky                           | **official**       | rsync://msync.rockylinux.org/rocky/mirror/pub/rocky/         | every 2 hr     |                                                                          | https://mirrors.rockylinux.org/mirrormanager/mirrors                    |
