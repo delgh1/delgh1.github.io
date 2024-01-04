@@ -49,6 +49,6 @@ was my first time translating an article after joining the gnu.org Chinese
 translation team.
 
 
-This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0
-International License](http://creativecommons.org/licenses/by-nd/4.0/).
+This work is licensed under a [Creative Commons Attribution 4.0 International
+license](https://creativecommons.org/licenses/by/4.0/).
 
