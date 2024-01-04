@@ -6,15 +6,15 @@ My name is Jing Luo. I'm fluent in Chinese (Mandarin), English, and Japanese. In
 
 See also: [What is Free Software?](https://www.gnu.org/philosophy/free-sw.html)
 
-My roles in the GNU project: gnu.org Chinese & Japanese translation team member.
+My roles in the GNU project: gnu.org Chinese & Japanese translation team member (2023-08~). GNU webmaster (2023-10~).
 
-I grant myself the rank of webmaster and postmaster.
+I grant myself the rank of webmaster, postmaster, and hostmaster.
 
 ## My Personal Website
 
 This's my tech blog, a website built from Jekyll. Do you need more explanation? Really?
 
-## License
+## Catch-all license
 
 Copyright 2023, Jing Luo.
 
