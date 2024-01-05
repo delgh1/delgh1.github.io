@@ -11,10 +11,10 @@ OpenKylin was dubbed "the first independent homegrown linux distro" (sic) by
 many state media, and it announced its release 1.0 in mid 2023. This, without
 a doubt, is false advertising, and probably nationalist propaganda. I had been
 asked by "the infrastructure team of openEuler" to host a mirror of
-openEuler's OS images.  After some digging, openEuler seems to be an rpm-based
+openEuler's OS images. After some digging, openEuler seems to be an rpm-based
 distro that also has a Chinese homepage and many Chinese company logos on it
 while OpenKylin is Debian-based (or more accurately, Ubuntu-based). The two
-are both sponsored by the state, yet they claim to be community projects.  As
+are both sponsored by the state, yet they claim to be community projects2. As
 of the mirroring request, I politely refused of course, as it would not align
 with my philosophy, to provide better access to free software in the world.
 
@@ -42,7 +42,7 @@ for myself how good or how bad this OpenKylin was.
 ## The Download
 
 To no one's surprise, OpenKylin's website is in Chinese by default. The title
-of the page translates to "OpenKylin open source operating system".  The
+of the page translates to "OpenKylin open source operating system". The
 download is straight forward, but only MD5 checksum of the ISO image is
 offered, no SHA256 or GPG signature. Are we in 1985?
 
@@ -54,15 +54,15 @@ version.
 ![installer-grub](/assets/openkylin/installer-grub.png)
 
 Booting into the LiveCD, the desktop environment looks good, but of course I
-am not impressed by fancy UI.  So I pressed Crtl + Alt + T to open the
+am not impressed by fancy UI. So I pressed Crtl + Alt + T to open the
 terminal, and found out the rumors were true: some essential utilities are
-missing.  Notably the `less` from `coreutils`, GNU Nano, and `man-db`. These
+missing. Notably the `less` from `coreutils`, GNU Nano, and `man-db`. These
 are the three things I cannot live without.
 
 ![coreutils](/assets/openkylin/coreutils.png)
 
 Poking around the desktop, I noticed a familiar "W" icon on the taskbar. It is
-a Microsoft Office clone, called WPS Office.  This proprietary malware indeed
+a Microsoft Office clone, called WPS Office. This proprietary malware indeed
 is homegrown, a known offender of user freedom and privacy. [In 2022, WPS
 deleted a user's file because of "sensitive
 content"](https://www.scmp.com/tech/big-tech/article/3185239/chinese-word-processor-wps-accused-censorship-after-author-says-she). I
@@ -73,7 +73,7 @@ again.
 
 Time to install. The installer asked me to accept the license
 agreement. Despite I chose English language explicitly, I was presented the
-license agreement in Chinese.  In short, the license agreement decribes how
+license agreement in Chinese. In short, the license agreement decribes how
 "we" (refers to "the OpenKylin community") collect and use user data. Remember
 OpenKylin is endorsed and sponsored by the Ministry of Defense of China.
 
@@ -83,7 +83,7 @@ OpenKylin is endorsed and sponsored by the Ministry of Defense of China.
 
 By default, Linux kernel 5.15 and 6.1 are installed. This becomes a selling
 point: the short text below translates to "innovation and stability" (whatever
-that means).  Both 5.15.y and 6.1.y are LTS kernels, is there any point to
+that means). Both 5.15.y and 6.1.y are LTS kernels, is there any point to
 install both?
 
 ![install1](/assets/openkylin/install1.png)
@@ -104,7 +104,7 @@ or what it represents at all.
 The next step would be finding the usual software I need on a daily basis. If
 I were a user that is not familiar with the command line, I would go to the
 package manager's frontend GUI to install software. This frontend here is
-called "software store".  Having seen WPS Office installed by default, I did
+called "software store". Having seen WPS Office installed by default, I did
 not expect much. I was greeted with a full page of Chinese proprietary
 software, many of which are known censors and malware, and it did not
 recommend any free software.
@@ -117,9 +117,9 @@ recommend any free software.
 
 And there we are, "Weixin" a.k.a "Wechat", the most popular instant messaging
 software in China, which banned my account for 24 hours in late 2022 for
-**sensitive content**.  "Baidu Netdisk", a.k.a. "Baidu Cloud", one of the most
+**sensitive content**. "Baidu Netdisk", a.k.a. "Baidu Cloud", one of the most
 popular storage services in China, which permanently banned my account in 2014
-for storing **sensitive content**.  Storing some pdfs and video clips download
+for storing **sensitive content**. Storing some pdfs and video clips download
 from youtube, the next thing you know, you become an enemy of the state.
 
 ![weixin](/assets/openkylin/weixin.png)
@@ -131,7 +131,7 @@ from youtube, the next thing you know, you become an enemy of the state.
 These proprietary software packages are are huge. There are a few theories to
 explain it:
 
-- a. they are not linux-native software, so they use WINE
+- a. they are not GNU/Linux-native software, so they use WINE
 
 - b. everything is statically linked
 
@@ -146,13 +146,13 @@ system again.
 ## The offensive language in documentation
 
 There is no free software without free and good documentation. To no one's
-surprise, OpenKylin fails on this too, and it fails badly.  Its documentation
+surprise, OpenKylin fails on this too, and it fails badly. Its documentation
 can be considered non-existent compared to other distros.
 
 I discovered a few interesting things on the documentation section of the
 OpenKylin website. It has a `must read for newbie` part, consisting of pages I
 would consider to be blog posts rather than manuals or documentations. There
-is one page titled "20 funny things about Linux commands and Linux terminal".
+is one page titled `20 funny things about Linux commands and Linux terminal`.
 It has an joke with offensive, misogynistic language in the end, as the images
 shown below. The Chinese text feels like a translation, and I was not wrong.
 After an easy seach online, I found a blog post in English which matches the
@@ -168,7 +168,7 @@ Chinese text.
 
 OpenKylin's documentation pages has the CC-BY-SA 4.0 license by default, which
 is a good thing *if they comply with the terms of license*, namely the *BY*
-(give attribution) and *SA* (share-alike) part.  Of course, the Chinese page
+(give attribution) and *SA* (share-alike) part. Of course, the Chinese page
 on OpenKylin's website does not credit to where it was adapted from, and the
 original work is likely non-free.
 
@@ -184,14 +184,14 @@ main repository.
 # The verdict
 
 **OpenKylin bundles proprietary software and installs it by default**. Users
-have no choice but to accept it during the installation.**OpenKylin also
-actively recommends proprietary software in its "software store"**.  This is
+have no choice but to accept it during the installation. **OpenKylin also
+actively recommends proprietary software in its "software store"**. This is
 even much worse than the [optionally
 free](https://www.gnu.org/distros/optionally-free-not-enough.html) in some
-other distros.  It does not deserve to have "GNU" or "Linux" in its name. It
-loudly rejects the ideal of Free Software Movement.  In fact, it can be
+other distros. It does not deserve to have "GNU" or "Linux" in its name. It
+loudly rejects the ideal of Free Software Movement. In fact, it can be
 considered an attack on free software in whole, and it even turns its back on
-"open source" for that matter.
+"open source" for that matter. It does not care about user or freedom at all.
 
 I call for boycotting this distribution. The developers and maintainers with
 minimum ammount of conscience that care about Chinese users' freedom should
