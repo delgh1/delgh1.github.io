@@ -11,9 +11,9 @@ and I have unsually strict requirements for something I use daily.
 ## The marketing
 
 OpenKylin was dubbed "the first independent homegrown linux distro" (sic) by
-many state media, and it announced its release 1.0 in mid 2023. This, without
-a doubt, is false advertising, and probably nationalist propaganda. I had been
-asked by "the infrastructure team of openEuler" to host a mirror of
+many state media in China, and it announced its release 1.0 in mid 2023. This,
+without a doubt, is false advertising, and probably nationalist propaganda. I
+had been asked by "the infrastructure team of openEuler" to host a mirror of
 openEuler's OS images. After some digging, openEuler seems to be an rpm-based
 distro that also has a Chinese homepage and many Chinese company logos on it
 while OpenKylin is Debian-based (or more accurately, Ubuntu-based). The two
