@@ -16,7 +16,7 @@ This's my tech blog, a website built from Jekyll. Do you need more explanation? 
 
 ## Catch-all license
 
-Copyright 2023, Jing Luo.
+Copyright 2023, 2024, Jing Luo.
 
 ### Code and their documents, unless specified
 

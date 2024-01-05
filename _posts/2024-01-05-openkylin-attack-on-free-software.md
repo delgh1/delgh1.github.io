@@ -5,7 +5,10 @@ title: "OpenKylin's attack on free software"
 
 Warning: there are many images (screenshots) on this page.
 
-# The marketing
+Normally, I don't do "distro reviews". There are many reviews online already,
+and I have unsually strict requirements for something I use daily.
+
+## The marketing
 
 OpenKylin was dubbed "the first independent homegrown linux distro" (sic) by
 many state media, and it announced its release 1.0 in mid 2023. This, without
@@ -14,7 +17,7 @@ asked by "the infrastructure team of openEuler" to host a mirror of
 openEuler's OS images. After some digging, openEuler seems to be an rpm-based
 distro that also has a Chinese homepage and many Chinese company logos on it
 while OpenKylin is Debian-based (or more accurately, Ubuntu-based). The two
-are both sponsored by the state, yet they claim to be community projects2. As
+are both sponsored by the state, yet they claim to be community projects. As
 of the mirroring request, I politely refused of course, as it would not align
 with my philosophy, to provide better access to free software in the world.
 
@@ -27,7 +30,7 @@ ladder](https://www.fsf.org/blogs/community/the-journey-begins-with-a-single-ste
 has to start with somewhere afterall. However, I was soon to be proven too
 naïve.
 
-# An audit
+## An audit
 
 Casually browsing the repository, I found that Sougou is set to the startup
 homepage of the default browser Firefox. This was discovered in the package
@@ -38,15 +41,14 @@ openkylin-default-settings-23.05.2.
 I have read somewhere that it was just a remix of Ubuntu, but I decided to see
 for myself how good or how bad this OpenKylin was.
 
-
-## The Download
+### The Download
 
 To no one's surprise, OpenKylin's website is in Chinese by default. The title
 of the page translates to "OpenKylin open source operating system". The
 download is straight forward, but only MD5 checksum of the ISO image is
 offered, no SHA256 or GPG signature. Are we in 1985?
 
-## The Installer and the LiveCD
+### The Installer and the LiveCD
 
 Using Qemu, I could not help but notice the installer uses outdated GRUB 2.04
 version.
@@ -90,7 +92,7 @@ install both?
 
 ![install2](/assets/openkylin/install2.png)
 
-## The first boot is the last boot
+### The first boot is the last boot
 
 The bootloader is GRUB 2.06, the latest stable release at this time. To my
 surprise, the distro's name in GRUB is called "OpenKylin GNU/Linux", exactly
@@ -143,7 +145,7 @@ The installed system uses 12GB on disk, and 1.7GB memory after booting to
 desktop. This is the first boot and the last boot, I will never use this
 system again.
 
-## The offensive language in documentation
+### The offensive language in documentation
 
 There is no free software without free and good documentation. To no one's
 surprise, OpenKylin fails on this too, and it fails badly. Its documentation
@@ -172,7 +174,7 @@ is a good thing *if they comply with the terms of license*, namely the *BY*
 on OpenKylin's website does not credit to where it was adapted from, and the
 original work is likely non-free.
 
-## The reddit
+### The reddit
 
 A few users on Reddit say [there appears to be tons of segfaults in
 dmesg](https://www.reddit.com/r/linux/comments/14zc6wn/a_quick_look_at_the_openkylin_linux_distro/),
@@ -181,7 +183,7 @@ components of the desktop environment. I did not check dmesg, but I would not
 be surprised. NVDIA's proprietary GPU driver can also be found in OpenKylin's
 main repository.
 
-# The verdict
+## The verdict
 
 **OpenKylin bundles proprietary software and installs it by default**. Users
 have no choice but to accept it during the installation. **OpenKylin also
@@ -197,7 +199,7 @@ I call for boycotting this distribution. The developers and maintainers with
 minimum ammount of conscience that care about Chinese users' freedom should
 make a 100% free distro called LibreKylin instead.
 
-# License
+## License
 
 Copyright 2024, Jing Luo.
 

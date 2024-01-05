@@ -2,9 +2,9 @@
 layout: form
 title: "The matrix of repo.jing.rocks"
 ---
-Updated: 2023-12-19 09:31+0900
+Updated: 2024-01-05 21:21+0900
 
-[Is repo.jing.rocks down?](https://status.jing.rocks/)
+[Is repo.jing.rocks down?](https://repo.jing.rocks/)
 
 Total: 63 repos, 49 officially listed, 24 distinct GNU/Linux distros
 
@@ -48,8 +48,8 @@ Total: 63 repos, 49 officially listed, 24 distinct GNU/Linux distros
 | LFS (Linux From Scratch)                   | lfs                             | **official**       | rsync://rsync.osuosl.org/lfs/                                | every 24 hr    |                                                                          | https://www.linuxfromscratch.org/mirrors.html                           |
 | linuxfromscratch.org                       | lfs-website                     | **official**       | rsync://www.linuxfromscratch.org/lfs-website/                | every 12 hr    | https://lfs.jing.rocks/                                                  | https://www.linuxfromscratch.org/mirrors.html                           |
 | Linux-libre                                | linux-libre                     | **official**       | rsync://rsync.linux-libre.fsfla.org/linux-libre/             | every 12 hr    |                                                                          | https://www.fsfla.org/ikiwiki/selibre/linux-libre/index.en.html#mirrors |
-| Linux Mint                                 | linuxmint                       | not yet official   | rsync://pub.linuxmint.com/pub/                               | every 8 hr     |                                                                          | https://linuxmint.com/mirrors.php                                       |
-| Linux Mint ISOs                            | linuxmint-iso                   | not yet official   | rsync://rsync-packages.linuxmint.com/packages/               | every 12 hr    |                                                                          | https://linuxmint.com/mirrors.php                                       |
+| Linux Mint                                 | linuxmint                       | **official**       | rsync://pub.linuxmint.com/pub/                               | every 8 hr     |                                                                          | https://linuxmint.com/mirrors.php                                       |
+| Linux Mint ISOs                            | linuxmint-iso                   | **official**       | rsync://rsync-packages.linuxmint.com/packages/               | every 12 hr    |                                                                          | https://linuxmint.com/mirrors.php                                       |
 | MX Linux                                   | mxlinux                         | **official**       | rsync://iso.mxrepo.com/workspace/                            | every 12 hr    |                                                                          | http://rsync-mxlinux.org/mirmon/packages.html                           |
 | MX Linux ISOs                              | mxlinux-iso                     | **official**       | rsync://rsync-mxlinux.org/MX-Linux/                          | every 12 hr    |                                                                          | http://rsync-mxlinux.org/mirmon/                                        |
 | NetBSD                                     | netbsd                          | not yet official   | rsync://ftp.riken.jp/netbsd/                                 | every 1 hr     |                                                                          | http://www.netbsd.org/mirrors/                                          |
