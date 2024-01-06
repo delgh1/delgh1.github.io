@@ -10,22 +10,23 @@ and I have unsually strict requirements for something I use daily.
 
 ## The marketing
 
-OpenKylin was dubbed "the first independent homegrown linux distro" (sic) by
-many state media in China, and it announced its release 1.0 in mid 2023. This,
-without a doubt, is false advertising, and probably nationalist propaganda. I
-had been asked by "the infrastructure team of openEuler" to host a mirror of
-openEuler's OS images. After some digging, openEuler seems to be an rpm-based
-distro that also has a Chinese homepage and many Chinese company logos on it
-while OpenKylin is Debian-based (or more accurately, Ubuntu-based). The two
-are both sponsored by the state, yet they claim to be community projects. As
-of the mirroring request, I politely refused of course, as it would not align
-with my philosophy, to provide better access to free software in the world.
+OpenKylin was dubbed "the first independent homegrown linux desktop distro"
+(sic) by many state media in China, and it announced its release 1.0 in mid
+2023. This, without a doubt, is false advertising, and probably nationalist
+propaganda. I had been asked by "the infrastructure team of openEuler" to host
+a mirror of openEuler's OS images. After some digging, openEuler seems to be
+an rpm-based distro that also has a Chinese homepage and many Chinese company
+logos on it while OpenKylin is Debian-based (or more accurately,
+Ubuntu-based). The two are both sponsored by the state, yet they claim to be
+community projects. As of the mirroring request, I politely refused of course,
+as it would not align with my philosophy, to provide better access to free
+software in the world.
 
 ![openeuler-email](/assets/openkylin/openeuler-email.png)
 
 One more distribution of GNU/Linux seems to be a good thing in general. I
 expect with more choices of flavors of OSes, more people will eventually turn
-to free software. [The freedom
+to free software. [Climbing the freedom
 ladder](https://www.fsf.org/blogs/community/the-journey-begins-with-a-single-step-climb-the-freedom-ladder)
 has to start with somewhere afterall. However, I was soon to be proven too
 naïve.
@@ -46,7 +47,7 @@ for myself how good or how bad this OpenKylin was.
 To no one's surprise, OpenKylin's website is in Chinese by default. The title
 of the page translates to "OpenKylin open source operating system". The
 download is straight forward, but only MD5 checksum of the ISO image is
-offered, no SHA256 or GPG signature. Are we in 1985?
+offered on the website, no SHA256 or GPG signature. Are we in 1985?
 
 ### The Installer and the LiveCD
 
@@ -77,7 +78,7 @@ Time to install. The installer asked me to accept the license
 agreement. Despite I chose English language explicitly, I was presented the
 license agreement in Chinese. In short, the license agreement decribes how
 "we" (refers to "the OpenKylin community") collect and use user data. Remember
-OpenKylin is endorsed and sponsored by the Ministry of Defense of China.
+OpenKylin is endorsed and sponsored by the state.
 
 ![selectenglish](/assets/openkylin/selectenglish.png)
 
@@ -94,10 +95,10 @@ install both?
 
 ### The first boot is the last boot
 
-The bootloader is GRUB 2.06, the latest stable release at this time. To my
+The bootloader is GRUB 2.06, the latest stable release at the time. To my
 surprise, the distro's name in GRUB is called "OpenKylin GNU/Linux", exactly
-on the boot menu. I am unsure if the maintainers are aware of the project GNU
-or what it represents at all.
+on the boot menu. I am unsure if the maintainers are aware of what GNU project
+is or what it represents at all.
 
 ![grub](/assets/openkylin/grub.png)
 
@@ -119,10 +120,11 @@ recommend any free software.
 
 And there we are, "Weixin" a.k.a "Wechat", the most popular instant messaging
 software in China, which banned my account for 24 hours in late 2022 for
-**sensitive content**. "Baidu Netdisk", a.k.a. "Baidu Cloud", one of the most
-popular storage services in China, which permanently banned my account in 2014
-for storing **sensitive content**. Storing some pdfs and video clips download
-from youtube, the next thing you know, you become an enemy of the state.
+discussing **sensitive content**. "Baidu Netdisk", a.k.a. "Baidu Cloud", one
+of the most popular storage services in China, which permanently banned my
+account in 2014 for storing **sensitive content**. Storing some pdfs and video
+clips download from youtube, the next thing you know, you become an enemy of
+the state.
 
 ![weixin](/assets/openkylin/weixin.png)
 
@@ -142,8 +144,8 @@ explain it:
 - d. all of the above
 
 The installed system uses 12GB on disk, and 1.7GB memory after booting to
-desktop. This is the first boot and the last boot, I will never use this
-system again.
+desktop. What kind of bloatware is this? This is the first boot and the last
+boot, I will never use this system again.
 
 ### The offensive language in documentation
 
@@ -193,7 +195,7 @@ free](https://www.gnu.org/distros/optionally-free-not-enough.html) in some
 other distros. It does not deserve to have "GNU" or "Linux" in its name. It
 loudly rejects the ideal of Free Software Movement. In fact, it can be
 considered an attack on free software in whole, and it even turns its back on
-"open source" for that matter. It does not care about user or freedom at all.
+"open source" for that matter. It never cares about user or freedom at all.
 
 I call for boycotting this distribution. The developers and maintainers with
 minimum ammount of conscience that care about Chinese users' freedom should
