@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: postwtoc
 title: "OpenKylin's attack on free software"
+toc: true
 ---
 
 Warning: there are many images (screenshots) on this page.
@@ -42,7 +43,7 @@ openkylin-default-settings-23.05.2.
 I have read somewhere that it was just a remix of Ubuntu, but I decided to see
 for myself how good or how bad this OpenKylin was.
 
-### The Download
+### The download
 
 To no one's surprise, OpenKylin's website is in Chinese by default. The title
 of the page translates to "OpenKylin open source operating system". The
