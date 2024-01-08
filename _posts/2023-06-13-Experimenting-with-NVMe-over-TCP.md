@@ -200,3 +200,9 @@ RDMA). It would be better if I had a 25Gb or 40Gb network adapter.
 
 - [NVMe over TCP Test
   Report](https://mellanox.my.site.com/mellanoxcommunity/s/article/NVMe-over-TCP-Test-Report)
+
+
+<!--Copyright 2023, 2024, Jing Luo.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International license](https://creativecommons.org/licenses/by-sa/4.0/).-->

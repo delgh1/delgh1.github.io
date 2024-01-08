@@ -297,3 +297,9 @@ patch](https://github.com/keylase/nvidia-patch).
 GPU transcoding does not require much computational power as gaming does, so a
 second-hand or mid-range graphics card with proper codec supports should be
 fine if it is exclusively used by Jellyfin.
+
+
+<!--Copyright 2023, 2024, Jing Luo.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International license](https://creativecommons.org/licenses/by-sa/4.0/).-->

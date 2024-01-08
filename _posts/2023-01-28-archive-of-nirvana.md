@@ -39,8 +39,7 @@ Wayback Machine instead.**
 The copyright status of all the works published by `Nirvana weekly` is
 unknown, since the magazine did not specify such terms and the magazine itself
 has been defunct since 2016. See the `README.MD` in the GitHub repository
-mentioned above. By the reactions of some editors I've met, I think it's safe
-to assume these works are in public domain now.
+mentioned above.
 
 The sections from the top to this line of the post is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International
