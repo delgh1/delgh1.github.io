@@ -10,15 +10,22 @@ solely of the individuals involved.
 
 2. This page and the files attached come with **ABSOLUTELY NO WARRANTY**.
 
-# Added features (?)
+3. I do NOT claim the copyright of text and source code that are not
+   originally written by me.
 
-[WeChat History of Nirvana - 涅槃周刊公众号推文](https://nirvana-wechat.jing.rocks)
+# Added features
 
-[GitHub repository](https://github.com/delgh1/nirvana-sz), which includes all
-the pdf files mentioned below. [Download the release
-here.](https://github.com/delgh1/nirvana-sz/releases)
+[WeChat's service account: a history of Nirvana - 涅槃周刊公众号推
+文](https://nirvanaweekly-wechat.jing.rocks)
+
+[Git repository](https://forgejo.jing.rocks/jing/nirvanaweekly-archive), which
+includes all the pdf files mentioned below. [Download the release
+here.](https://forgejo.jing.rocks/jing/nirvanaweekly-archive/releases)
 
 # Changelog
+
+- Jan 14 2024: Migrate from GitHub to `forgejo.jing.rocks`. New home. Add
+  non-free javascript warning. Fix copyright notice.
 
 - Nov 18 2023: Add a link to release download page. Reformat the file using
   Emacs auto-fill-mode. Add permalink.
@@ -28,25 +35,28 @@ here.](https://github.com/delgh1/nirvana-sz/releases)
 
 - Jan 28 2023: Fork from original author of [the
 post](https://web.archive.org/web/20231118040826/https://hackmd.io/@uOwb5ZnlTnWuF0zwmCQ_5Q/B1446O0bX?type=view).
-The pdf preview feature is not working on the original post. Use the [GitHub
-repo](https://github.com/delgh1/nirvana-sz) instead.  **The original post
-requires non-free Javascript to function. It is also infested with various web
-elements that violate users' privacy. Therefore, I've inserted a link to the
-Wayback Machine instead.**
+The pdf preview feature is not working on the original post. Use the [Git
+repo](https://forgejo.jing.rocks/jing/nirvanaweekly-archive) instead.  **The
+original page of the post requires [non-free
+Javascript](https://www.gnu.org/philosophy/javascript-trap.html) to
+function. It is also infested with various web elements that violate users'
+privacy. Therefore, I've replaced it with a link to the Wayback Machine
+instead.**
 
 # License
 
 The copyright status of all the works published by `Nirvana weekly` is
 unknown, since the magazine did not specify such terms and the magazine itself
-has been defunct since 2016. See the `README.MD` in the GitHub repository
+has been defunct since 2016. See the `README.MD` in the Git repository
 mentioned above.
-
-The sections from the top to this line of the post is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International
-License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 **ABSOLUTELY NO WARRANTY, not even the implied warranty of MERCHANTABILITY or
   FITNESS FOR A PARTICULAR PURPOSE.**
+
+Copyright 2023, 2024 Jing Luo. The sections from the top to this line of the
+post is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
 
 ==============================================================================
 
